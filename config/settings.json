@@ -1,0 +1,9 @@
+{
+  "product": "SketchUp Arch Notes",
+  "version": "7.4.4",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
